@@ -25,5 +25,6 @@ public class GameManager : MonoBehaviour
     public void test2()
     {
         Debug.Log("2");
+        Debug.Log("3");
     }
 }
